@@ -28,7 +28,7 @@ Website Sneakpeeks
 
 * Image 1
 
-![](https://drive.google.com/file/d/1xLQ2SciOce5aogXj_noYmaHr6R9gGmIw/view?usp=sharing)
+![Image](https://drive.google.com/file/d/1xLQ2SciOce5aogXj_noYmaHr6R9gGmIw/view?usp=sharing)
 
 * Image 2
 
