@@ -6,4 +6,7 @@ https://pharmeasyproject.netlify.app/
 
 What is Pharmeasy ?
 
+Pharmeasy is an online health aggregator app which sells medicines and various types of healthcare services to it customers. 
+
+
 
