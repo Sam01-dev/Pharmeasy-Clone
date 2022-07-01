@@ -40,7 +40,7 @@ Website Sneakpeeks
 
 * Image 4
 
-![](https://drive.google.com/file/d/13_FzbJ9l8SmORKJMzP4h3GXkau7d63Ps/view?usp=sharing)
+![](https://drive.google.com/file/d/13_FzbJ9l8SmORKJMzP4h3GXkau7d63Ps/view&export=download)
 
 
 
