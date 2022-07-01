@@ -32,11 +32,11 @@ Website Sneakpeeks
 
 * Image 2
 
-![](https://drive.google.com/file/d/1jmtXDhFhH6ZMphSUrgb7IcVxqZO_1XoR/view?usp=sharing)
+![Image 2](https://drive.google.com/file/d/1jmtXDhFhH6ZMphSUrgb7IcVxqZO_1XoR/view?usp=sharing)
 
 * Image 3
 
-![](https://drive.google.com/file/d/1Q9ktNMCZlZ5vMpiGoHVMBOSoO9MxY3iH/view?usp=sharing)
+![Image 3](https://drive.google.com/file/d/1Q9ktNMCZlZ5vMpiGoHVMBOSoO9MxY3iH/view?usp=sharing)
 
 * Image 4
 
