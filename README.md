@@ -26,19 +26,19 @@ Website Features
 Website Sneakpeeks
 ------------------
 
-* Image 1
+* Home
 
 ![image](https://drive.google.com/uc?export=view&id=1xLQ2SciOce5aogXj_noYmaHr6R9gGmIw)
 
-* Image 2
+* Product
 
 ![Image 2](https://drive.google.com/uc?export=view&id=1jmtXDhFhH6ZMphSUrgb7IcVxqZO_1XoR)
 
-* Image 3
+* Login
 
 ![Image 3](https://drive.google.com/uc?export=view&id=1Q9ktNMCZlZ5vMpiGoHVMBOSoO9MxY3iH)
 
-* Image 4
+* Cart
 
 ![image](https://drive.google.com/uc?export=view&id=13_FzbJ9l8SmORKJMzP4h3GXkau7d63Ps)
 
