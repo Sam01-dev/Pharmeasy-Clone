@@ -32,15 +32,15 @@ Website Sneakpeeks
 
 * Image 2
 
-![Image 2](https://drive.google.com/file/d/1jmtXDhFhH6ZMphSUrgb7IcVxqZO_1XoR/view?usp=sharing)
+![Image 2](https://drive.google.com/uc?export=view&id=1jmtXDhFhH6ZMphSUrgb7IcVxqZO_1XoR)
 
 * Image 3
 
-![Image 3](https://drive.google.com/file/d/1Q9ktNMCZlZ5vMpiGoHVMBOSoO9MxY3iH/view?usp=sharing)
+![Image 3](https://drive.google.com/uc?export=view&id=1Q9ktNMCZlZ5vMpiGoHVMBOSoO9MxY3iH)
 
 * Image 4
 
-![](https://drive.google.com/file/d/13_FzbJ9l8SmORKJMzP4h3GXkau7d63Ps/&export=download)
+![image](https://drive.google.com/uc?export=view&id=13_FzbJ9l8SmORKJMzP4h3GXkau7d63Ps)
 
 
 
